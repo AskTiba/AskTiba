@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I am Anthony 👋
 
-- ⚡ I’m a passionate Frontend Developer.
+- ⚡ I’m a passionate Frontend Developera at CodePlay.
 - 💻 I build intuitive web & mobile apps with React, React Native, TypeScript, and Tailwind/NW.
 - 🚀 Currently open to frontend roles, collabs & meaningful tech projects.
 - 📫 Let’s connect and build something impactful.
