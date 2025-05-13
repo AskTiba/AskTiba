@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-⚡ I’m a passionate Frontend Developer & Network Engineer.
-💻 I build intuitive web & mobile apps with React, React Native, TypeScript, and Tailwind/NW.
-🚀 Currently open to frontend roles, collabs & meaningful tech projects.
-📫 Let’s connect and build something impactful!
+-⚡ I’m a passionate Frontend Developer & Network Engineer.
+-💻 I build intuitive web & mobile apps with React, React Native, TypeScript, and Tailwind/NW.
+-🚀 Currently open to frontend roles, collabs & meaningful tech projects.
+-📫 Let’s connect and build something impactful!
 
 <!--
 **AskTiba/AskTiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
