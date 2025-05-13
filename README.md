@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on MyPledge react native app and the backend of an Ecommerce Project
-- 🌱 I’m currently learning react native with expo router and tailwind css.
-- 🤔 I’m looking for help with effeciently setting up the backend for my Frontend project appa and also team up with a UI/UC designer to create some awesome designs we can bring to life. 
+⚡ I’m a passionate Frontend Developer & Network Engineer
+💻 I build intuitive web & mobile apps with React, React Native, TypeScript, and Tailwind/NW
+🚀 Currently open to frontend roles, collabs & meaningful tech projects
+📫 Let’s connect and build something impactful!
 
 <!--
 **AskTiba/AskTiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+🌐 I also automate systems with Python and bring strong networking knowledge to tech
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
