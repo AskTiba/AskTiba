@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- ⚡ I’m a passionate Frontend Developer & Network Engineer.
+- ⚡ I’m a passionate Frontend Developer.
 - 💻 I build intuitive web & mobile apps with React, React Native, TypeScript, and Tailwind/NW.
 - 🚀 Currently open to frontend roles, collabs & meaningful tech projects.
 - 📫 Let’s connect and build something impactful.
